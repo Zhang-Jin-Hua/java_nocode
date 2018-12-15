@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.DS_Store
+/core/core.iml
+/agent/agent.iml
+/target
+**/.settings
+**/.classpath
+**/.project
+/.idea
+**/*.iml
+/nb-configuration.xml
+**/target
+core/src/main/resources/com/taobao/arthas/core/res/version
+**/*.orig
+
+site/src/site/sphinx/_build
+site/src/site/sphinx/en/_build
+
+**/__pycache__
+
